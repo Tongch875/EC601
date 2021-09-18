@@ -22,7 +22,7 @@ But while optimizing various neural network learning with SSL, I am also curious
 
 ## An area of focus that interests me
 
-I am most interested in the practical application of SSL in recommendation systems. I think the recommendation system is very suitable to be represented by graphs, and optimization with SSL should produce very good results. At the same time, it is also very good for my job search and resume.
+I am most interested in the practical application of SSL in recommendation systems. I think the recommendation system is very suitable to be represented by graphs, and optimization with SSL should produce very good results. At the same time, it is also very important for my job search and resume.
 
 ## Open Source research
 
