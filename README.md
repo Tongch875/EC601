@@ -46,6 +46,7 @@ https://github.com/LirongWu/awesome-graph-self-supervised-learning/tree/e27cef90
 https://github.com/Shen-Lab/SS-GCNs
 
 https://github.com/DeepGraphLearning/GraphLoG
+Graph Self-Supervised Learning Survey
 
 On the whole, SSL may not have been actually applied in the graph field. This technology is very new, and more of it is still in the research stage. According to several papers I have seen, the most prominent feature of SSL for graph data structures is in Adversarial defense performances, which is better than Graph convolutional networks (GCNs) against link & feature attacks.
 
