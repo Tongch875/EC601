@@ -22,6 +22,9 @@ GRAPH SSL has also been applied to biology and chemistry. In the field of chemis
 
 But while optimizing various neural network learning with SSL, I am also curious about how this method is implemented.
 
+## Literature review
+？？？？As comprehensive as you can, research the different approaches and solutions in research community and industry？？？？
+
 ## An area of focus that interests me
 
 I am most interested in the practical application of SSL in recommendation systems. I think the recommendation system is very suitable to be represented by graphs, and optimization with SSL should produce very good results. At the same time, it is also very important for my job search and resume.
