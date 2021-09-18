@@ -33,6 +33,8 @@ I am most interested in the practical application of SSL in recommendation syste
 
 Regarding SSL information, I haven't found resources outside of GitHub. GitHub on SSL, on Self-Supervision Help Graph Convolutional Networks, and various Graph Self-Supervised Learning papers.
 
+```
+
 https://github.com/LirongWu/awesome-graph-self-supervised-learning/tree/e27cef90069481a2e769e291bc4a21b3572171c9#A-Summary-of-Open-source-Codes
 
 @article{you2020does,
@@ -47,6 +49,8 @@ https://github.com/Shen-Lab/SS-GCNs
 Graph Self-Supervised Learning Survey
 
 https://github.com/DeepGraphLearning/GraphLoG
+
+```
 
 On the whole, SSL may not have been actually applied in the graph field. This technology is very new, and more of it is still in the research stage. According to several papers I have seen, the most prominent feature of SSL for graph data structures is in Adversarial defense performances, which is better than Graph convolutional networks (GCNs) against link & feature attacks.
 
