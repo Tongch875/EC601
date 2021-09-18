@@ -34,7 +34,7 @@ Predictive learning: Generally, labels are self-generated from graph data throug
 
 ## An area of focus that interests me
 
-I am most interested in the practical application of SSL in recommendation systems. I think the recommendation system is very suitable to be represented by graphs, and optimization with SSL should produce very good results. At the same time, it is also very important for my job search and resume.
+I am most interested in the practical application of graph SSL in recommendation systems. I think the recommendation system is very suitable to be represented by graphs, and optimization with SSL should produce very good results. At the same time, it is also very important for my job search and resume. I'm also interested in Graph SSL GCNs countering attacks
 
 ## Open Source research
 
