@@ -1,6 +1,6 @@
 # EC601 project 1
 
-Problem statement:
+## Problem statement:
 
 In recent years, due to the popularity of graph structure data, graph-based deep learning has begun to attract attention in the field of artificial intelligence. However, most of the deep learning work on graphs focuses on supervised or semi-supervised learning scenarios. In this scenario, the model is trained for downstream tasks based on manual annotation information. Despite the success of supervised and semi-supervised graph learning, it relies heavily on label information. The cost of obtaining ground-truth tags is too high, over-fitting occurs, and robustness is poor. In other fields, such as the medical field, obtaining sufficient data is itself a challenge.
 
