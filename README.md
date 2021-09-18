@@ -20,3 +20,14 @@ GRAPH SSL has also been applied to biology and chemistry. In the field of chemis
 
 But while optimizing various neural network learning with SSL, I am also curious about how this method is implemented.
 
+## An area of focus that interests me
+
+I am most interested in the practical application of SSL in recommendation systems. I think the recommendation system is very suitable to be represented by graphs, and optimization with SSL should produce very good results. At the same time, it is also very good for my job search and resume.
+
+## Open Source research
+
+Regarding SSL information, I haven't found resources outside of GitHub. GitHub on SSL, on Self-Supervision Help Graph Convolutional Networks, and various Graph Self-Supervised Learning papers.
+
+On the whole, SSL may not have been actually applied in the graph field. This technology is very new, and more of it is still in the research stage. According to several papers I have seen, the most prominent feature of SSL for graph data structures is in Adversarial defense performances, which is better than Graph convolutional networks (GCNs) against link & feature attacks.
+
+
