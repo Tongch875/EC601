@@ -8,7 +8,7 @@ Self-supervised learning (SSL) is a promising method to solve the problems of su
 
 First, most of the work of graph learning relies too much on tags and less considers the underlying structure, so designing various SSL auxiliary tasks can help improve this situation and help understand the structure and attribute data of the graph data. Secondly, the cost of collecting image tag information is too high, and it is difficult to apply most of the existing methods to real-world data, but SSL reduces the dependence on artificial tags. Thirdly, graphics are universal and complex data structure This makes SSL pre-tasks work better in this situation, and is more suitable for constructing various SSL pre-tasks to obtain supervision signals than the CV/NLP field.
 
-## APPLICATIONS
+## Applications:
 
 Graph SSL is applied to Graph Convolutional Networks (GCNs) to counter attacks. I saw in the paper "When Does Self-Supervision Help Graph Convolutional Networks" that the researchers studied the introduction of self-supervised standards and adversarial performance in graph convolutional networks (GCNs); taking multi-task learning as the research object, designed Several new self-supervised learning tasks; integrate multi-task self-supervision into graph confrontation training, and demonstrate its enhanced robustness to confrontation attacks. 
 
