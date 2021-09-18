@@ -46,7 +46,7 @@ arXiv:2103.00111v2 [cs.LG] 5 Aug 2021
   pages={10871--10880},
   year={2020}
 }
-
+https://github.com/Shen-Lab/SS-GCNs
 
 On the whole, SSL may not have been actually applied in the graph field. This technology is very new, and more of it is still in the research stage. According to several papers I have seen, the most prominent feature of SSL for graph data structures is in Adversarial defense performances, which is better than Graph convolutional networks (GCNs) against link & feature attacks.
 
