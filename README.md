@@ -1,6 +1,6 @@
 # EC601 project 1
 
-## Self-supervision for graph data structures
+## Self-supervision for graph data structures -- Tong Chang
 
 ## Problem statement:
 
