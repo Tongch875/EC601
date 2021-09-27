@@ -26,12 +26,6 @@ def get_all_tweets(screen_name):
     # make initial request for most recent tweets (200 is the maximum allowed count)
     new_tweets = api.user_timeline(screen_name=screen_name, count=20)
 
-    # save most recent tweets
-    alltweets.extend(new_tweets)
-
-    # save the id of the oldest tweet less one
-    oldest = alltweets[-1].id - 1
-
     i = 1
 
     # Print tweets of the user by timeline
@@ -47,4 +41,4 @@ def get_all_tweets(screen_name):
 
 if __name__ == '__main__':
     # pass in the username of the account you want to download
-    get_all_tweets("@TONGCHA35960567")  #
+    get_all_tweets("@TONGCHA35960567")  #my dev
