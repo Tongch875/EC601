@@ -6,10 +6,10 @@ from TwitterAPI import TwitterAPI
 from TwitterAPI import TwitterPager
 
 # Twitter API credentials
-consumer_key = "ncUtdcz60tY0gpLcFvtWBNRnB" #"Enter the consumer_key"
-consumer_secret = "tuFCAQqAKfc3ffbnuEDasRJyGBDSnf32L6GncTmIUNePZLzc08"# Enter the consumer_secret"
-access_key = "1440796131798118401-hFSAtnwkbXj8DMMA7o4Rf4C5f1lj7Y"#Enter the access_key"
-access_secret = "HShMTj1Y16bjhEB8AS7c9YYQ9hWuEu9TNUPgHiVPueaYn"#Enter the access_secret"
+consumer_key = "Enter the consumer_key" #"Enter the consumer_key"
+consumer_secret = "Enter the consumer_secret"# Enter the consumer_secret"
+access_key = "Enter the access_key"#Enter the access_key"
+access_secret = "access_secret"#Enter the access_secret"
 
 api = TwitterAPI(consumer_key,
                  consumer_secret,
