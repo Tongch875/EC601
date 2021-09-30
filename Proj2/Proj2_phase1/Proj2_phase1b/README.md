@@ -28,18 +28,20 @@ I installed the Google cloud SDK shell according to Google’s instructions.I cr
       "name": "Michelangelo Caravaggio",
       "salience": 0.82904786,
       "type": "PERSON"
-      ```
+```
       
 A very detailed and thorough analysis and search of a person’s name.
 
 I also run sentiment analysis programs from Python. For clear sentences, Google’s sentiment analysis is very accurate. However, for sentences with complex meanings, such as satire, Google's analysis is sometimes not very accurate.
 
+```
 Text: The more people I know, the more I like dogs. 
 Sentiment: 0.5, 0.5
 Text:  It does not matter if you are single, you will still be single in the future!
 Sentiment: 0.8999999761581421, 0.8999999761581421
 Text:  His teeth are like stars in the sky, bright in color and far apart.
 Sentiment: 0.800000011920929, 0.800000011920929
+```
 
 Normally, the meanings of these three sentences or want to express are negative. That is to say, the first parameter of emotion, sentiment.score, should be negative. But Google recognizes them as positive.
 
