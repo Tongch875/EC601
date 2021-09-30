@@ -19,3 +19,4 @@ Text:  His teeth are like stars in the sky, bright in color and far apart.
 Sentiment: 0.800000011920929, 0.800000011920929
 
 Process finished with exit code 0
+ 
