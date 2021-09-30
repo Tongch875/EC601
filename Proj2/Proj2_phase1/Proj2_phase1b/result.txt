@@ -1,0 +1,21 @@
+"C:\Users\TONG CHANG\AppData\Local\Programs\Python\Python39\python.exe" "D:/EC 601 OSAMA/project2/GoogleAPI_test.py"
+Text: The House on Wednesday voted 219-212 to suspend the nations debt limit until December 2022, with just weeks to go before the country is expected to reach its borrowing limit
+Sentiment: -0.10000000149011612, 0.10000000149011612
+Text: Oh! It is nice to see you! How are you? Where have you been for such a long time?
+Sentiment: 0.4000000059604645, 1.7000000476837158
+Text: I love you Mary. I love you more than anything in the world. You are my goddess.
+Sentiment: 0.8999999761581421, 2.9000000953674316
+Text: You should have told me if you cannot do it! What are we supposed to do with this now? 
+Sentiment: -0.699999988079071, 1.5
+Text: I am really curious about its functions! How does it works? It is amazing!
+Sentiment: 0.4000000059604645, 2.0999999046325684
+Text: Interestingly, he praised a boy for planting one tree, but ignored the fact that he had cut down ten trees  . 
+Sentiment: -0.6000000238418579, 0.6000000238418579
+Text: The more people I know, the more I like dogs. 
+Sentiment: 0.5, 0.5
+Text:  It does not matter if you are single, you will still be single in the future!
+Sentiment: 0.8999999761581421, 0.8999999761581421
+Text:  His teeth are like stars in the sky, bright in color and far apart.
+Sentiment: 0.800000011920929, 0.800000011920929
+
+Process finished with exit code 0

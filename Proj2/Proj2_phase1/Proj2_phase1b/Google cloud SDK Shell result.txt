@@ -1,0 +1,161 @@
+
+
+C:\Users\TONG CHANG\AppData\Local\Google\Cloud SDK>gcloud ml language analyze-entities --content="Michelangelo Caravaggio, Italian painter, is known for 'The Calling of Saint Matthew'. I think I know nothing about him. The example given by google is interesting. Does someone in Google like this artist?"
+{
+  "entities": [
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 0,
+            "content": "Michelangelo Caravaggio"
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "beginOffset": 33,
+            "content": "painter"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {
+        "mid": "/m/020bg",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Caravaggio"
+      },
+      "name": "Michelangelo Caravaggio",
+      "salience": 0.6134317,
+      "type": "PERSON"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 25,
+            "content": "Italian"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {},
+      "name": "Italian",
+      "salience": 0.19634153,
+      "type": "LOCATION"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 56,
+            "content": "The Calling of Saint Matthew"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {
+        "mid": "/m/085_p7",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/The_Calling_of_St_Matthew_(Caravaggio)"
+      },
+      "name": "The Calling of Saint Matthew",
+      "salience": 0.05310591,
+      "type": "EVENT"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 102,
+            "content": "nothing"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "nothing",
+      "salience": 0.040233813,
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 170,
+            "content": "someone"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "someone",
+      "salience": 0.030171508,
+      "type": "PERSON"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 198,
+            "content": "artist"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "artist",
+      "salience": 0.021184547,
+      "type": "PERSON"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 125,
+            "content": "example"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "example",
+      "salience": 0.016047463,
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 142,
+            "content": "google"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "google",
+      "salience": 0.015195173,
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 181,
+            "content": "Google"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {
+        "mid": "/m/045c7b",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Google"
+      },
+      "name": "Google",
+      "salience": 0.014288389,
+      "type": "OTHER"
+    }
+  ],
+  "language": "en"
+}
+
+C:\Users\TONG CHANG\AppData\Local\Google\Cloud SDK>
