@@ -4,6 +4,7 @@
 
 I installed the Google cloud SDK shell according to Google’s instructions.I create API keys and save them in environment variables so that I don’t need to insert the API key value every time I call the API. In Google cloud SDK shell the detailed analysis for each word is given. Part of it is like this：
 
+```
 "mentions": [
         {
           "text": {
@@ -27,6 +28,7 @@ I installed the Google cloud SDK shell according to Google’s instructions.I cr
       "name": "Michelangelo Caravaggio",
       "salience": 0.82904786,
       "type": "PERSON"
+      ```
       
 A very detailed and thorough analysis and search of a person’s name.
 
