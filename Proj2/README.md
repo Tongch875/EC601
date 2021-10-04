@@ -24,5 +24,6 @@ Supporters and opponents have their own groups, supporters can also communicate 
 * As a person who is interested in daily news, I can quickly know which news is most worth reading, so that I don’t have to read all the news, because I may not be interested in all the news, or I don’t have so many Time to read all.
 * As a polling agency, I can quickly understand which events the people resonate with, which issues have emotional opposition, and which outstanding issues are worth investigating. Or I can use this product to get people’s attitude to a certain issue faster and more accurately than telephone surveys
 * As a fan, I want to communicate with people who support the same star as me.
+* As a media, I want to know which of the most recent incidents are of great concern to the public, which incidents are worth reporting, and which incidents have not been reported but have already produced a great response among the public.
 * As a star, I want to know how well I am known among the people and how popular is it. Has the singer’s new album been welcomed; what do the people think of the movie that the actors are shooting and is it possible to get a high box office in the future; the people’s views on the athletes’ match, etc.
 
