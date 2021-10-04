@@ -27,3 +27,8 @@ Supporters and opponents have their own groups, supporters can also communicate 
 * As a media, I want to know which of the most recent incidents are of great concern to the public, which incidents are worth reporting, and which incidents have not been reported but have already produced a great response among the public.
 * As a star, I want to know how well I am known among the people and how popular is it. Has the singer’s new album been welcomed; what do the people think of the movie that the actors are shooting and is it possible to get a high box office in the future; the people’s views on the athletes’ match, etc.
 
+### MVP
+
+* Provide events or people that have been discussed many times on the day, sorted by popularity
+* Provide relevant tweets of tweets that users have marked as support or opposition, divided into support and opposition
+* Provide vague statistics on support or opposition to a certain issue
