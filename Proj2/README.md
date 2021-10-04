@@ -1,8 +1,10 @@
-## Proj 2 phase 2
+# Proj 2 phase 2
 
-# user story
+## user story
 
-# Tong Chang
+## Tong Chang
+
+### Mission
 
 This is a product that focuses on the hottest topics (climate issues), people (a certain star), and events (Olympics) in the past week. Then the product can analyze 
 Twitter's most popular tweets in the past week through Twitter API and Goggle NLP. Wen's emotions. It can also compare and analyze the emotions of different time periods. 
