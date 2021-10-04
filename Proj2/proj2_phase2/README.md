@@ -1,6 +1,6 @@
 # Proj 2 phase 2
 
-## user story
+## User story
 
 ## Tong Chang 
 
