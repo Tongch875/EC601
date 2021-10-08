@@ -1,0 +1,208 @@
+"C:\Users\TONG CHANG\AppData\Local\Programs\Python\Python39\python.exe" "D:/EC 601 OSAMA/project2/emotion_analyze.py"
+ Input KEYWORDS that you want to find: football
+Input the NUMBER that you need : 50
+Text: And for all the latest on what's going in Portuguese football, and a thoroughly enjoyable listen, check out the @LongBallFutebol podcast!
+Sentiment: 0.8999999761581421, 0.8999999761581421
+Text: RT @790TheTicket: It’s a Football Friday! Can the Dolphins beat Tom Brady and the Buccaneers?! Hoch &amp; Crowder will discuss… The Hochman &amp; C…
+Sentiment: 0.0, 0.4000000059604645
+Text: RT @TheSpartansWire: Michigan State football RB Kenneth Walker III added to Maxwell Award watch list  https://t.co/Prlu8HR94b
+Sentiment: 0.0, 0.0
+Text: the bitches in front of me in my class rn are talking about football and im just here looking at people cutting themselves on twt
+Sentiment: -0.699999988079071, 0.699999988079071
+Text: RT @PIF_en: An investment group led by #PIF has completed the acquisition of 100% of Newcastle United Football Club @NUFC. https://t.co/Ehe…
+Sentiment: 0.10000000149011612, 0.30000001192092896
+Text: RT @btsportfootball: Newcastle jump straight into number one in the list of football's richest owners 🤯 https://t.co/Y5cWQVRCFu
+Sentiment: 0.10000000149011612, 0.10000000149011612
+Text: HEADS UP: Football
+
+"Staveley hoping for long overdue success for Newcastle"
+
+GIVE IT A WATCH:… https://t.co/PfR0MhgpZo
+Sentiment: 0.20000000298023224, 0.8999999761581421
+Text: RT @TrollFootball: Belgium is the Tottenham of national football teams.
+Sentiment: 0.0, 0.0
+Text: Premio Yashin 2021, la lista dei dieci portieri candidati: France Football ha pubblicato la lista dei dieci candida… https://t.co/TNUpg12qEB
+Sentiment: 0.20000000298023224, 0.5
+Text: RT @gohatt: . . . I haven't watched those anti-American idiots play football for two years!!
+Sentiment: -0.20000000298023224, 0.5
+Text: RT @dme__363: Ronaldo the new face of the Premier League. The Face of Football. https://t.co/Ib3Fw1AOpW
+Sentiment: 0.20000000298023224, 0.6000000238418579
+Text: 'Are you ready for some football?' More important, 'Are you ready to be vaccinated?' 
+Here's a timely nudge from… https://t.co/tHDDgE9lDM
+Sentiment: 0.0, 0.30000001192092896
+Text: RT @SpikiBoyy: Voilà pourquoi le football est le meilleur sport ⚽️ ♥️ #BELFRA https://t.co/v8gRLled2y
+Sentiment: 0.5, 0.5
+Text: Best Football  commercial ever🤣🤣🤣 https://t.co/vcKXJk2wtc
+Sentiment: 0.8999999761581421, 0.8999999761581421
+Text: RT @artink67: College Football Recruiting Event for Coaches Only: https://t.co/6so5D4NDnC
+Sentiment: 0.0, 0.0
+Text: RT @WTHRcom: The Danville Warriors (6-1) host the Western Boone Stars (5-2) Friday, Oct. 8 at 7 p.m. #13OPFB #OperationFootball
+https://t.c…
+Sentiment: 0.0, 0.0
+Text: RT @JonScottTV: Spencer Brown is from Lenox, Iowa... a town of about 1,400 people.
+
+200-300 of those residents are making the 2+ hour drive…
+Sentiment: -0.20000000298023224, 0.5
+Text: A weekend with no club football makes me sick https://t.co/RieE4IOJGl
+Sentiment: -0.800000011920929, 0.800000011920929
+Text: RT @MizzouAthletics: We are proud to participate in College Football Mental Health Week, a call to action by @HilinskisHope to raise mental…
+Sentiment: 0.4000000059604645, 0.4000000059604645
+Text: Aquí está lo último que se puede ver en Football Analytics. A verlo mientras la transmisión todavía esté disponible. https://t.co/KYwbtRGfdp
+Sentiment: 0.20000000298023224, 0.800000011920929
+Text: Winnacunnet vs. Portsmouth/Oyster River🏈New Hampshire HS Football 
+today @ 7p.
+@PortsAthletics @PHSClipperFBall… https://t.co/6sGDBP744x
+Sentiment: 0.20000000298023224, 0.6000000238418579
+Text: RT @560WQAM: It’s a Football Friday! Can the Dolphins beat Tom Brady and the Buccaneers?! Hoch &amp; Crowder will discuss… The Hochman &amp; Crowde…
+Sentiment: 0.10000000149011612, 0.4000000059604645
+Text: @donowiIson @xopgoat10 @jholland4_ @DanielJonesMVP Your worse than Covid. It's just football.
+Sentiment: -0.6000000238418579, 1.2000000476837158
+Text: @TheBat8022 @NBCS49ers That was his first half of football and scored more TD’s than Jimmy Garbage Can LMAOOO 🤣
+Sentiment: 0.30000001192092896, 0.30000001192092896
+Text: @LushaWest Maybe watch some football
+Sentiment: -0.10000000149011612, 0.10000000149011612
+Text: @talkSPORT Simon Kjaer should win it for more than just playing football. What he did goes beyond the sport. Real leadership.
+Sentiment: 0.800000011920929, 2.4000000953674316
+Text: @Football__Tweet Mason mount 😂😂😂😂
+Sentiment: 0.0, 0.0
+Text: RT @Brett_McMurphy: LSU will no longer require prove of vaccination or negative COVID tests for fans at home football games in Tiger Stadiu…
+Sentiment: 0.0, 0.0
+Text: Dan Crowley reveals how he coped with summer of difficulty before signing for Cheltenham. #hcafc 
+
+https://t.co/CetWuj7Big
+Sentiment: 0.20000000298023224, 0.800000011920929
+Text: if they did a fake terrible awful football afc richmond game in real life know that i’ll be decked out in fictional… https://t.co/zmT4LOGYv1
+Sentiment: -0.10000000149011612, 1.100000023841858
+Text: Charlotte vs. FIU betting resources are available for tonight's CUSA meeting
+
+Preview: https://t.co/IbvLIu2J8F
+
+CUS… https://t.co/WbQUXQVZsU
+Sentiment: 0.10000000149011612, 0.5
+Text: RT @ESPNFC: Throwback to when Griezmann signed Mbappe for Newcastle on Football Manager 😅
+
+(via @equipedefrance) https://t.co/pDprbDHSmh
+Sentiment: 0.0, 0.0
+Text: All my football peeps out there, if you ain't ever watched the movie the Program, I insist.. I watched this movie,… https://t.co/UQ46a9sHD4
+Sentiment: 0.30000001192092896, 0.6000000238418579
+Text: @MiniFootballBsc @MiniFootballBsc  is my favorite Token as a retired NFL athlete. Soccer/Football and crypto❤️⚽️🥅🚀 https://t.co/vHJ6aXal9g
+Sentiment: 0.5, 1.0
+Text: RT @jerrysandersRTR: RT if you think Nick Saban is the best coach in college football history...🐘🏈 https://t.co/8CKccGYAm4
+Sentiment: 0.6000000238418579, 0.6000000238418579
+Text: @A_H_Ali81 @barstoolsports Meh who cares its one human out of billions, And its football, 1st world problems.
+Sentiment: -0.6000000238418579, 0.6000000238418579
+Text: @_IciCestParis_ @ElhadjiKandji1 Pour son geste c’est beau il mérite d’être nommés..  le monde du football s’était arrêté
+Sentiment: 0.0, 1.5
+Text: #WeekendFixtures - Good to luck to the adult Football, Camogie and Minor Hurling teams in their Championship games… https://t.co/26zaP5iHNe
+Sentiment: 0.0, 0.0
+Text: It's going to be a beautiful night for a football game!  Good Luck Tigers!  #EvenBetter https://t.co/KeFPaJlGQk
+Sentiment: 0.5, 1.7000000476837158
+Text: RT @pazpaz: a football team asked to play one of my songs in their stadium but they asked for a clean version. which is hilarious to me, ca…
+Sentiment: -0.20000000298023224, 0.20000000298023224
+Text: A football match of #Germany without @Manuel_Neuer &amp; @esmuellert_ after many years. Missing them. #DieMannschaft… https://t.co/EXyBtrbuax
+Sentiment: 0.0, 1.100000023841858
+Text: But apparently football isnt declining 😂 https://t.co/6P1qXls5JN
+Sentiment: -0.5, 0.5
+Text: #worldCup every two years ? : Jurgen klinsmann says yes #FIFA #football https://t.co/RrSdihFSvZ
+Sentiment: 0.0, 0.30000001192092896
+Text: RT @SpikiBoyy: Voilà pourquoi le football est le meilleur sport ⚽️ ♥️ #BELFRA https://t.co/v8gRLled2y
+Sentiment: 0.5, 0.5
+Text: Marcus Rashford's development is plain to see as he prepares for his 100th Premier League start #Football #News https://t.co/2OFUC8FKob
+Sentiment: 0.20000000298023224, 0.20000000298023224
+Text: @NFLonFOX @RamsNFL @Buck @TroyAikman I'm so happy for Stafford near the end of his career having served 12 years of… https://t.co/dP1RIUw9fW
+Sentiment: 0.8999999761581421, 0.8999999761581421
+Text: RT @Alfremartinezz: Imparable Pedri! Nominado por France Football entre los 30
+Finalistas al Balón de Oro y 10 finalistas del Trofeo menor…
+Sentiment: 0.30000001192092896, 0.6000000238418579
+Text: RT @NFL: Bills. Chiefs.
+2020 AFC Championship Game rematch.
+Sunday Night Football.
+
+This one's going to be good 🔥
+
+#BillsMafia | #ChiefsKin…
+Sentiment: 0.30000001192092896, 1.899999976158142
+Text: RT @GoBearcatsFB: If you’re willing to go through all 
+the battling you got to go through, 
+to get where you want to get…
+Who’s got the rig…
+Sentiment: 0.0, 0.4000000059604645
+Text: Off to KC to camp and watch some CHIEFS football. Cant wait to be back at ARROWHEAD
+Sentiment: 0.4000000059604645, 1.100000023841858
+-------------------------------------------------------
+positive:
+['@LongBallFutebol podcast', "And for all the latest on what's going in Portuguese football, and a thoroughly enjoyable listen, check out the @LongBallFutebol podcast!", [0.8999999761581421, 0.8999999761581421]]
+['@PIF_en', 'RT @PIF_en: An investment group led by #PIF has completed the acquisition of 100% of Newcastle United Football Club @NUFC. https://t.co/Ehe…', [0.10000000149011612, 0.30000001192092896]]
+['@btsportfootball', "RT @btsportfootball: Newcastle jump straight into number one in the list of football's richest owners 🤯 https://t.co/Y5cWQVRCFu", [0.10000000149011612, 0.10000000149011612]]
+['', 'HEADS UP: Football\n\n"Staveley hoping for long overdue success for Newcastle"\n\nGIVE IT A WATCH:… https://t.co/PfR0MhgpZo', [0.20000000298023224, 0.8999999761581421]]
+['', 'Premio Yashin 2021, la lista dei dieci portieri candidati: France Football ha pubblicato la lista dei dieci candida… https://t.co/TNUpg12qEB', [0.20000000298023224, 0.5]]
+['@dme__363', 'RT @dme__363: Ronaldo the new face of the Premier League. The Face of Football. https://t.co/Ib3Fw1AOpW', [0.20000000298023224, 0.6000000238418579]]
+['@SpikiBoyy', 'RT @SpikiBoyy: Voilà pourquoi le football est le meilleur sport ⚽️ ♥️ #BELFRA https://t.co/v8gRLled2y', [0.5, 0.5]]
+['', 'Best Football  commercial ever🤣🤣🤣 https://t.co/vcKXJk2wtc', [0.8999999761581421, 0.8999999761581421]]
+['@MizzouAthletics', 'RT @MizzouAthletics: We are proud to participate in College Football Mental Health Week, a call to action by @HilinskisHope to raise mental…', [0.4000000059604645, 0.4000000059604645]]
+['', 'Aquí está lo último que se puede ver en Football Analytics. A verlo mientras la transmisión todavía esté disponible. https://t.co/KYwbtRGfdp', [0.20000000298023224, 0.800000011920929]]
+['@ 7p.\n@PortsAthletics @PHSClipperFBall… https', 'Winnacunnet vs. Portsmouth/Oyster River🏈New Hampshire HS Football \ntoday @ 7p.\n@PortsAthletics @PHSClipperFBall… https://t.co/6sGDBP744x', [0.20000000298023224, 0.6000000238418579]]
+['@560WQAM', 'RT @560WQAM: It’s a Football Friday! Can the Dolphins beat Tom Brady and the Buccaneers?! Hoch &amp; Crowder will discuss… The Hochman &amp; Crowde…', [0.10000000149011612, 0.4000000059604645]]
+['@TheBat8022 @NBCS49ers That was his first half of football and scored more TD’s than Jimmy Garbage Can LMAOOO ', '@TheBat8022 @NBCS49ers That was his first half of football and scored more TD’s than Jimmy Garbage Can LMAOOO 🤣', [0.30000001192092896, 0.30000001192092896]]
+['@talkSPORT Simon Kjaer should win it for more than just playing football. What he did goes beyond the sport. Real leadership', '@talkSPORT Simon Kjaer should win it for more than just playing football. What he did goes beyond the sport. Real leadership.', [0.800000011920929, 2.4000000953674316]]
+['', 'Dan Crowley reveals how he coped with summer of difficulty before signing for Cheltenham. #hcafc \n\nhttps://t.co/CetWuj7Big', [0.20000000298023224, 0.800000011920929]]
+['', "Charlotte vs. FIU betting resources are available for tonight's CUSA meeting\n\nPreview: https://t.co/IbvLIu2J8F\n\nCUS… https://t.co/WbQUXQVZsU", [0.10000000149011612, 0.5]]
+['', "All my football peeps out there, if you ain't ever watched the movie the Program, I insist.. I watched this movie,… https://t.co/UQ46a9sHD4", [0.30000001192092896, 0.6000000238418579]]
+['@MiniFootballBsc @MiniFootballBsc  is my favorite Token as a retired NFL athlete. Soccer/Football and crypto❤️⚽️🥅🚀 https', '@MiniFootballBsc @MiniFootballBsc  is my favorite Token as a retired NFL athlete. Soccer/Football and crypto❤️⚽️🥅🚀 https://t.co/vHJ6aXal9g', [0.5, 1.0]]
+['@jerrysandersRTR', 'RT @jerrysandersRTR: RT if you think Nick Saban is the best coach in college football history...🐘🏈 https://t.co/8CKccGYAm4', [0.6000000238418579, 0.6000000238418579]]
+['', "It's going to be a beautiful night for a football game!  Good Luck Tigers!  #EvenBetter https://t.co/KeFPaJlGQk", [0.5, 1.7000000476837158]]
+['@SpikiBoyy', 'RT @SpikiBoyy: Voilà pourquoi le football est le meilleur sport ⚽️ ♥️ #BELFRA https://t.co/v8gRLled2y', [0.5, 0.5]]
+['', "Marcus Rashford's development is plain to see as he prepares for his 100th Premier League start #Football #News https://t.co/2OFUC8FKob", [0.20000000298023224, 0.20000000298023224]]
+["@NFLonFOX @RamsNFL @Buck @TroyAikman I'm so happy for Stafford near the end of his career having served 12 years of… https", "@NFLonFOX @RamsNFL @Buck @TroyAikman I'm so happy for Stafford near the end of his career having served 12 years of… https://t.co/dP1RIUw9fW", [0.8999999761581421, 0.8999999761581421]]
+['@Alfremartinezz', 'RT @Alfremartinezz: Imparable Pedri! Nominado por France Football entre los 30\nFinalistas al Balón de Oro y 10 finalistas del Trofeo menor…', [0.30000001192092896, 0.6000000238418579]]
+['@NFL', "RT @NFL: Bills. Chiefs.\n2020 AFC Championship Game rematch.\nSunday Night Football.\n\nThis one's going to be good 🔥\n\n#BillsMafia | #ChiefsKin…", [0.30000001192092896, 1.899999976158142]]
+['', 'Off to KC to camp and watch some CHIEFS football. Cant wait to be back at ARROWHEAD', [0.4000000059604645, 1.100000023841858]]
+neutral:
+['@790TheTicket', 'RT @790TheTicket: It’s a Football Friday! Can the Dolphins beat Tom Brady and the Buccaneers?! Hoch &amp; Crowder will discuss… The Hochman &amp; C…', [0.0, 0.4000000059604645]]
+['@TheSpartansWire', 'RT @TheSpartansWire: Michigan State football RB Kenneth Walker III added to Maxwell Award watch list  https://t.co/Prlu8HR94b', [0.0, 0.0]]
+['@TrollFootball', 'RT @TrollFootball: Belgium is the Tottenham of national football teams.', [0.0, 0.0]]
+['', "'Are you ready for some football?' More important, 'Are you ready to be vaccinated?' \nHere's a timely nudge from… https://t.co/tHDDgE9lDM", [0.0, 0.30000001192092896]]
+['@artink67', 'RT @artink67: College Football Recruiting Event for Coaches Only: https://t.co/6so5D4NDnC', [0.0, 0.0]]
+['@WTHRcom', 'RT @WTHRcom: The Danville Warriors (6-1) host the Western Boone Stars (5-2) Friday, Oct. 8 at 7 p.m. #13OPFB #OperationFootball\nhttps://t.c…', [0.0, 0.0]]
+['@Football__Tweet Mason mount 😂😂😂', '@Football__Tweet Mason mount 😂😂😂😂', [0.0, 0.0]]
+['@Brett_McMurphy', 'RT @Brett_McMurphy: LSU will no longer require prove of vaccination or negative COVID tests for fans at home football games in Tiger Stadiu…', [0.0, 0.0]]
+['@ESPNFC', 'RT @ESPNFC: Throwback to when Griezmann signed Mbappe for Newcastle on Football Manager 😅\n\n(via @equipedefrance) https://t.co/pDprbDHSmh', [0.0, 0.0]]
+['@_IciCestParis_ @ElhadjiKandji1 Pour son geste c’est beau il mérite d’être nommés..  le monde du football s’était arrêt', '@_IciCestParis_ @ElhadjiKandji1 Pour son geste c’est beau il mérite d’être nommés..  le monde du football s’était arrêté', [0.0, 1.5]]
+['', '#WeekendFixtures - Good to luck to the adult Football, Camogie and Minor Hurling teams in their Championship games… https://t.co/26zaP5iHNe', [0.0, 0.0]]
+['@Manuel_Neuer &amp; @esmuellert_ after many years. Missing them. #DieMannschaft… https', 'A football match of #Germany without @Manuel_Neuer &amp; @esmuellert_ after many years. Missing them. #DieMannschaft… https://t.co/EXyBtrbuax', [0.0, 1.100000023841858]]
+['', '#worldCup every two years ? : Jurgen klinsmann says yes #FIFA #football https://t.co/RrSdihFSvZ', [0.0, 0.30000001192092896]]
+['@GoBearcatsFB', 'RT @GoBearcatsFB: If you’re willing to go through all \nthe battling you got to go through, \nto get where you want to get…\nWho’s got the rig…', [0.0, 0.4000000059604645]]
+negative:
+['', 'the bitches in front of me in my class rn are talking about football and im just here looking at people cutting themselves on twt', [-0.699999988079071, 0.699999988079071]]
+['@gohatt', "RT @gohatt: . . . I haven't watched those anti-American idiots play football for two years!!", [-0.20000000298023224, 0.5]]
+['@JonScottTV', 'RT @JonScottTV: Spencer Brown is from Lenox, Iowa... a town of about 1,400 people.\n\n200-300 of those residents are making the 2+ hour drive…', [-0.20000000298023224, 0.5]]
+['', 'A weekend with no club football makes me sick https://t.co/RieE4IOJGl', [-0.800000011920929, 0.800000011920929]]
+["@donowiIson @xopgoat10 @jholland4_ @DanielJonesMVP Your worse than Covid. It's just football", "@donowiIson @xopgoat10 @jholland4_ @DanielJonesMVP Your worse than Covid. It's just football.", [-0.6000000238418579, 1.2000000476837158]]
+['@LushaWest Maybe watch some footbal', '@LushaWest Maybe watch some football', [-0.10000000149011612, 0.10000000149011612]]
+['', 'if they did a fake terrible awful football afc richmond game in real life know that i’ll be decked out in fictional… https://t.co/zmT4LOGYv1', [-0.10000000149011612, 1.100000023841858]]
+['@A_H_Ali81 @barstoolsports Meh who cares its one human out of billions, And its football, 1st world problems', '@A_H_Ali81 @barstoolsports Meh who cares its one human out of billions, And its football, 1st world problems.', [-0.6000000238418579, 0.6000000238418579]]
+['@pazpaz', 'RT @pazpaz: a football team asked to play one of my songs in their stadium but they asked for a clean version. which is hilarious to me, ca…', [-0.20000000298023224, 0.20000000298023224]]
+['', 'But apparently football isnt declining 😂 https://t.co/6P1qXls5JN', [-0.5, 0.5]]
+
+support rate:  0.52
+
+positive group history last 100 tweets
+@LongBallFutebol podcast
+@PIF_en
+@btsportfootball
+@dme__363
+@SpikiBoyy
+@MizzouAthletics
+@ 7p.
+@PortsAthletics @PHSClipperFBall… https
+@560WQAM
+@TheBat8022 @NBCS49ers That was his first half of football and scored more TD’s than Jimmy Garbage Can LMAOOO 
+@talkSPORT Simon Kjaer should win it for more than just playing football. What he did goes beyond the sport. Real leadership
+@MiniFootballBsc @MiniFootballBsc  is my favorite Token as a retired NFL athlete. Soccer/Football and crypto❤️⚽️🥅🚀 https
+@jerrysandersRTR
+@SpikiBoyy
+@NFLonFOX @RamsNFL @Buck @TroyAikman I'm so happy for Stafford near the end of his career having served 12 years of… https
+@Alfremartinezz
+@NFL
+
+Process finished with exit code 0
