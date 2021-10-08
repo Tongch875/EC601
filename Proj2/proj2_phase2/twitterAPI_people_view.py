@@ -5,13 +5,10 @@ def people_view():
     import sys
 
     # input the keys and secret to acquire permission of API
-    consumerKey = "ncUtdcz60tY0gpLcFvtWBNRnB"# "5cQw8mSauZEG5A4Frn2uMQrnk"
-    consumerSecret = "tuFCAQqAKfc3ffbnuEDasRJyGBDSnf32L6GncTmIUNePZLzc08"
-    #"Ig1myJTZOR5VF2HMezfVd2n33ZfhSIWbYUpuBfiBfSEuvwto1y"
-    accessToken = "1440796131798118401-hFSAtnwkbXj8DMMA7o4Rf4C5f1lj7Y"
-    #"1441983537008152581-tPEF6LEkZIuSfEKSc9AhBVs8tj023Y"
-    accessTokenSecret = "HShMTj1Y16bjhEB8AS7c9YYQ9hWuEu9TNUPgHiVPueaYn"
-    #"f65k2QiGQEBOvHIbVIAfU0MjTZJfLg2FMVHZcKkQqhi1M"
+    consumerKey = ""
+    consumerSecret = ""
+    accessToken = ""
+    accessTokenSecret = ""
     auth = tweepy.OAuthHandler(consumerKey, consumerSecret)
     auth.set_access_token(accessToken, accessTokenSecret)
     api = tweepy.API(auth)
