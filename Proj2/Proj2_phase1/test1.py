@@ -11,7 +11,7 @@ consumer_secret = "Enter the consumer_secret"# Enter the consumer_secret"
 access_key = "Enter the access_key"#Enter the access_key"
 access_secret = "access_secret"#Enter the access_secret"
 
-api = TwitterAPI(consumer_key,
+api = TwitterAPI(consumer_key, 
                  consumer_secret,
                  access_key,
                  access_secret)
