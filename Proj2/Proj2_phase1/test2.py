@@ -1,4 +1,4 @@
-# !/usr/bin/env python
+# !/usr/bin/env python WHAT I CAN GET FROM MY ACCOUNT 
 from TwitterAPI import TwitterAPI
 from TwitterAPI import TwitterPager
 
