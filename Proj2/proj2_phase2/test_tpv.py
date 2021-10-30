@@ -3,6 +3,7 @@ import pytest
 
 
 def test_tpv(capfd):
+    tpv.input = lambda: "test", 50
     LIST , KEY= tpv.people_view()
     out, err = capfd.readouterr()
     assert err == "TPV Call Succeeded\n"
