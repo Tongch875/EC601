@@ -1,3 +1,4 @@
+#Manually entering the keywords and number of Twitter searches in the source program is needed. Please change the input part of the program to a constant when testing!
 import twitterAPI_people_view as tpv
 import pytest
 
